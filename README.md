@@ -1,6 +1,5 @@
 # 💫 About Me:
-i am Naveen kumar k  i love to learn new trinding skills and works my skill are baed on python web development django ,aiml,dl,nlp,linux,aws,english communication ,python language with dsa
-
+Hi!! I am Naveen kumar k  i love to learn new skills that helps to grow in my carrer as a software and aiml engineering
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Naveen kumar k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC6J9dTWFj5Zrhe7Ej7PxCaA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenanaveena3584@gmail.com) 
